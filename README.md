@@ -23,8 +23,14 @@ The PINN_heat uses a synthetic/observed dataset of observed temperatures for a d
   Concurrent Tidal Pumping and Groundwater Discharge. Water Resources Research, 549 
   57(2), e2020WR027904. https://doi.org/10.1029/2020WR027904
 
-2)
+2) A synthetic dataset featuring a sharp transition in exchange fluxes (setp_function.csv) published in:
+
+  McAliley, W. A., Day‐Lewis, F. D., Rey, D., Briggs, M. A., Shapiro, A. M., & Werkema, D. 561 
+  (2022). Application of Recursive Estimation to Heat Tracing for 562 
+  Groundwater/Surface‐Water Exchange. Water Resources Research, 58(6), 563 
+  e2021WR030443. https://doi.org/10.1029/2021WR030443 
+   
 
 
 
-3) Unpublished temperature measuremnts from tidal creek system on Texel, Netherlands (K2)
+4) Unpublished temperature measuremnts from tidal creek system on Texel, Netherlands (K2)
