@@ -31,6 +31,4 @@ The PINN_heat uses a synthetic/observed dataset of observed temperatures for a d
   e2021WR030443. https://doi.org/10.1029/2021WR030443 
    
 
-
-
-4) Unpublished temperature measuremnts from tidal creek system on Texel, Netherlands (K2)
+4) Unpublished temperature measuremnts from tidal creek system on Texel, Netherlands (K2_cal.csv)
